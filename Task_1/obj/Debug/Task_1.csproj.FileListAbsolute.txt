@@ -1,0 +1,9 @@
+C:\Users\ASUS\source\repos\ISMArrays\Task_1\bin\Debug\Task_1.exe.config
+C:\Users\ASUS\source\repos\ISMArrays\Task_1\bin\Debug\Task_1.exe
+C:\Users\ASUS\source\repos\ISMArrays\Task_1\bin\Debug\Task_1.pdb
+C:\Users\ASUS\source\repos\ISMArrays\Task_1\bin\Debug\ArrayLibrary.dll
+C:\Users\ASUS\source\repos\ISMArrays\Task_1\bin\Debug\ArrayLibrary.pdb
+C:\Users\ASUS\source\repos\ISMArrays\Task_1\obj\Debug\Task_1.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\source\repos\ISMArrays\Task_1\obj\Debug\Task_1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ISMArrays\Task_1\obj\Debug\Task_1.exe
+C:\Users\ASUS\source\repos\ISMArrays\Task_1\obj\Debug\Task_1.pdb

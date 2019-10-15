@@ -1,0 +1,6 @@
+C:\Users\ASUS\source\repos\ISMArrays\ArrayLibrary\bin\Debug\ArrayLibrary.dll
+C:\Users\ASUS\source\repos\ISMArrays\ArrayLibrary\bin\Debug\ArrayLibrary.pdb
+C:\Users\ASUS\source\repos\ISMArrays\ArrayLibrary\obj\Debug\ArrayLibrary.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\source\repos\ISMArrays\ArrayLibrary\obj\Debug\ArrayLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ISMArrays\ArrayLibrary\obj\Debug\ArrayLibrary.dll
+C:\Users\ASUS\source\repos\ISMArrays\ArrayLibrary\obj\Debug\ArrayLibrary.pdb
